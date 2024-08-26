@@ -10,13 +10,15 @@
 
 ###
 
-<p align="left">Quality Assurance (QA) - Automated Testing - Testing Tools (JIRA, Postman) - Creation of Test Plans - Best Testing Practices - Software Quality Assurance.<br><br>💼 LinkedIn: [https://www.linkedin.com/in/thalita-cristina-ferreira-a3a7911ab/]<br><br>About Me: I have experience in automated testing, creating test plans, and software quality assurance. I am always looking to learn and improve my skills.</p>
+<p align="left">Quality Assurance (QA) - Automated Testing - Testing Tools (JIRA, Postman) - Creation of Test Plans - Best Testing Practices - Software Quality Assurance.<br><br> <br><br>About Me: I have experience in automated testing, creating test plans, and software quality assurance.I am always looking to learn and improve my skills.</p>
 
 ###
 
 <br clear="both">
 
 <h2 align="left">I code with</h2>
+- Connect with me: 
+https://www.linkedin.com/in/thalita-cristina-ferreira-a3a7911ab/
 
 ###
 
@@ -37,3 +39,6 @@
 </div>
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+💼 LinkedIn: [https://www.linkedin.com/in/thalita-cristina-ferreira-a3a7911ab/]
